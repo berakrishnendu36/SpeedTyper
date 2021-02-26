@@ -2,7 +2,7 @@
 
 A flutter application to check your typing speed.
 
-[Download apk from here](https://www.icloud.com/iclouddrive/0E0_nILjj6nYXeoqFOVE5SOvQ#app-release)
+[Download apk from here](https://github.com/berakrishnendu36/SpeedTyper/releases/download/1.0/app-release.apk)
 
 # Libraries used:-
  - [Animated Text Kit](https://pub.dev/packages/animated_text_kit)
