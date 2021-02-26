@@ -14,9 +14,4 @@ A flutter application to check your typing speed.
 
 # Screenshots
 
-<img src="./screenshots/ss1.png" alt="img1" width="200"/>
-<img src="./screenshots/ss2.png" alt="img2" width="200"/>
-<img src="./screenshots/ss3.png" alt="img3" width="200"/>
-<img src="./screenshots/ss4.png" alt="img4" width="200"/>
-<img src="./screenshots/ss5.png" alt="img5" width="200"/>
-<img src="./screenshots/ss6.png" alt="img6" width="200"/>
+<img src="./screenshots/ss1.png" alt="img1" width="250"/> <img src="./screenshots/ss2.png" alt="img2" width="250"/> <img src="./screenshots/ss3.png" alt="img3" width="250"/> <img src="./screenshots/ss4.png" alt="img4" width="250"/> <img src="./screenshots/ss5.png" alt="img5" width="250"/> <img src="./screenshots/ss6.png" alt="img6" width="250"/>
